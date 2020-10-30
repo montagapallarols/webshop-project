@@ -12,6 +12,7 @@ module.exports = {
         allowNull: false,
         type: Sequelize.DATE
       },
+      // HELLOOO
       updatedAt: {
         allowNull: false,
         type: Sequelize.DATE
