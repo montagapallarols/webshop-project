@@ -1,0 +1,7 @@
+{
+  "development": {
+    "url": "postgres://qlgsdimj:tX9QD1YVRifmLf7i67Iptvam8305CUDG@hattie.db.elephantsql.com:5432/qlgsdimj",
+    "dialect": "mysql",
+    "operatorsAliases": 0
+  }
+}
